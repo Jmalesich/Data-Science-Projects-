@@ -1,2 +1,2 @@
-# Data-Science-Projects-
+#Data Science Fundamentals 
 Portfolio to demonstrate skills in ML, data manipulation, and visualization.
